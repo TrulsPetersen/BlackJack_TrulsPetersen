@@ -3,7 +3,7 @@
 This is a repository containing code to simulate a game of blackjack between two players. 
 
 The repository contains code developer in the corresponding programming languages/applications:
-1. Python, version 3.9
+1. Python, version 3.11
 2. UiPath Studio 2023.4.1 (Community edition)
 
 # Installing / running the code
