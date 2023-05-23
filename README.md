@@ -26,5 +26,5 @@ Truls Petersen
                             
 Senior Manager | Knowit Mangement Consulting                        
 
-Check me out on [LinkedIn Learning](https://www.linkedin.com/in/truls-petersen/).
+Check me out on [LinkedIn](https://www.linkedin.com/in/truls-petersen/).
 
