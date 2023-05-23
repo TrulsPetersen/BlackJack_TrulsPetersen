@@ -1,0 +1,119 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main3.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DeckOfCards&StateMachine_1",
+        "Winner&State_1",
+        "PlayerAction&StateMachine_1",
+        "DrawCounter&StateMachine_1",
+        "PlayerDeckTruls&StateMachine_1",
+        "PlayerDeckMarit&StateMachine_1",
+        "ContinueGame&StateMachine_1",
+        "ResponseContent&State_2",
+        "ResponseStatus&State_2",
+        "Players&Sequence_7",
+        "PlayerTotalTruls&State_1",
+        "PlayerTotalMarit&State_1",
+        "TrulsResult&Sequence_47",
+        "MaritResult&Sequence_47"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test_Truls_Blackjack_on_init_draw.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Winner&Sequence_1",
+        "DeckOfCards&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TestCase.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test_Marit_Blackjack_on_init_draw.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DeckOfCards&Sequence_1",
+        "Winner&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test_Marit_blackjack.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DeckOfCards&Sequence_1",
+        "Winner&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test_Truls_blackjack.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DeckOfCards&Sequence_1",
+        "Winner&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test_Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DrawCounter&StateMachine_1",
+        "PlayerDeckTruls&StateMachine_1",
+        "PlayerDeckMarit&StateMachine_1",
+        "ContinueGame&StateMachine_1",
+        "PlayerAction&StateMachine_1",
+        "ResponseContent&State_2",
+        "ResponseStatus&State_2",
+        "Players&Sequence_7",
+        "PlayerTotalTruls&State_1",
+        "PlayerTotalMarit&State_1",
+        "TrulsResult&Sequence_47",
+        "MaritResult&Sequence_47"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Winner",
+        "DeckOfCards"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
